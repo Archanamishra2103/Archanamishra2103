@@ -1,6 +1,6 @@
 - 👋 Namaste🙏, I’m Archana Mishra.
-- 🌱 I’m currently learning DSA,WEBDEV etc..
-- 💞️ Currently, I’m not looking for collaboration.
+- 🌱 I’m currently learning DSA, WEBDEV, JAVA FULL STACK
+- Currently working on few projects..
 - ⚡ Happy Coding!!💻
 
 <!---
